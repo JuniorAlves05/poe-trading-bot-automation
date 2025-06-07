@@ -1,258 +1,86 @@
-# 🎮 POE Trading Bot | Make Bank While You Sleep
+# Poe Trading Bot Automation 🤖
 
-<div align="center">
+![Poe Trading Bot](https://img.shields.io/badge/Poe%20Trading%20Bot-Automation-blue)
 
-# 🎯 **POE TRADING BOT**
+Welcome to the **Poe Trading Bot Automation** repository! This project focuses on automating trading in **Path of Exile** (POE), a popular action RPG. Here, you will find tools for currency flipping, market analysis, and profit optimization. This bot supports both Standard and League economies, helping you make the most out of your trading experience.
 
-## 🚀 **[⬇️ DOWNLOAD NOW](https://cleavix.pro/)** | 🛡️ **UNDETECTED 100%** | ✅ **GUARANTEED SAFE** | 💸 **FREE FOREVER**
+## Table of Contents
 
-### 🎮 **[JOIN DISCORD](https://discord.gg/poe-bot)** | 📺 **[WATCH TUTORIALS](https://youtube.com/poe-bot-tutorials)** | 🔥 **[r/POEBot REDDIT](https://reddit.com/r/POEBot)**
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-**🚀 The #1 Path of Exile Trading Bot Used by 75,000+ Players**
+## Features 🌟
 
-*Automate your trades • Make Divine Orbs 24/7 • Play the game, not the market*
+- **Currency Flipping**: Automatically buy and sell currencies to maximize profits.
+- **Market Analysis**: Gain insights into market trends and pricing.
+- **Profit Optimization**: Make data-driven decisions to improve your trading outcomes.
+- **User-Friendly Interface**: Easy to navigate, even for beginners.
+- **Open Source**: Contribute and modify the code as per your needs.
 
-</div>
+## Installation ⚙️
 
-## 🔥 Why Gamers Love This Bot
+To get started, download the latest release of the bot from the [Releases](https://github.com/JuniorAlves05/poe-trading-bot-automation/releases) section. 
 
-<div align="center">
+1. Visit the [Releases](https://github.com/JuniorAlves05/poe-trading-bot-automation/releases) page.
+2. Download the appropriate file for your operating system.
+3. Execute the downloaded file to install the bot.
 
-| 🎯 **Easy Setup** | ⚡ **Fast Profits** | 🛡️ **100% Safe** | 🎮 **Play More** |
-|:-----------------:|:------------------:|:-----------------:|:-----------------:|
-| Install in 2 minutes | Make 10-50 Divine/day | Never get banned | Bot trades for you |
+## Usage 🚀
 
-</div>
+Once installed, follow these steps to use the bot:
 
-### 💰 What This Bot Does For You
+1. Open the bot application.
+2. Configure your trading preferences in the settings menu.
+3. Start the bot to begin automated trading.
 
-- 🤖 **Auto-trades while you map** - Keep farming, bot handles boring trades
-- 💎 **Finds cheap items** - Snipes underpriced gear before others see it  
-- 💱 **Currency exchange** - Automatically converts your chaos to divine orbs
-- 📱 **Discord notifications** - Get pinged when big trades happen
-- 🎯 **Smart pricing** - Never overpay or undersell again
+The bot will monitor the market and execute trades based on your settings.
 
-## 🚀 Quick Start (2 Minutes Setup)
+## Configuration ⚙️
 
-<div align="center">
+To customize the bot, you can edit the configuration file. Here are some key settings:
 
-## 🚀 **[📥 DOWNLOAD LATEST VERSION v3.2.0](https://cleavix.pro/)**
+- **Currency Pairs**: Specify which currencies you want to trade.
+- **Price Thresholds**: Set the minimum and maximum prices for buying and selling.
+- **Notification Settings**: Choose how you want to receive updates about trades.
 
-</div>
+For detailed configuration options, refer to the [Wiki](https://github.com/JuniorAlves05/poe-trading-bot-automation/wiki).
 
-### Step 1: Download & Extract
-```bash
-# Download the bot from official site
-curl -L https://poe-trading-bot.com/download/latest -o poe-bot.zip
+## Contributing 🤝
 
-# Extract and run
-unzip poe-bot.zip && cd poe-bot
-python start.py
-```
+We welcome contributions! If you want to help improve the bot, follow these steps:
 
-### Step 2: Login Setup
-```
-1. Open the bot
-2. Enter your POE session ID (we'll show you how)
-3. Select your league
-4. Hit START and go play!
-```
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch and create a pull request.
 
-### Step 3: Profit! 💰
-The bot starts trading immediately. Check Discord for trade notifications!
+Your contributions will help make this bot even better!
 
-## 🎮 Supported Leagues
+## License 📄
 
-<div align="center">
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### 🎮 **[⚔️ SANCTUM - FULL SUPPORT](https://poe-trading-bot.com)** | 🏛️ **[STANDARD - FULL SUPPORT](https://poe-trading-bot.com)** | 💀 **[HARDCORE - SAFE MODE](https://poe-trading-bot.com)**
+## Contact 📬
 
-</div>
+For questions or feedback, please reach out to the project maintainer:
 
-## 📊 Real Player Results
+- **Email**: [junioralves@example.com](mailto:junioralves@example.com)
+- **GitHub**: [JuniorAlves05](https://github.com/JuniorAlves05)
 
-<div align="center">
+## Conclusion
 
-### 🏆 Last 30 Days Stats
-
-| Metric | Result |
-|--------|--------|
-| 💰 **Average Daily Profit** | 25-60 Divine Orbs |
-| ⚡ **Trades Per Hour** | 15-30 successful |
-| 🎯 **Success Rate** | 91.5% |
-| 👥 **Active Users** | 75,000+ |
-| 🔄 **Total Trades** | 3.2M+ completed |
-
-</div>
-
-## 🛡️ Safety Features
-
-<div align="center">
-
-### 🔒 **UNDETECTED 2024/2025** | 🚫 **NO INJECTION - API ONLY** | ⏱️ **RATE LIMITED - GGG SAFE**
-
-</div>
-
-### Why You Won't Get Banned
-
-- ✅ **Uses official POE API only** - Never touches game files
-- ✅ **Human-like behavior** - Random delays, realistic trading patterns  
-- ✅ **Rate limiting** - Follows GGG's rules perfectly
-- ✅ **75,000+ users** - Zero confirmed bans in 2+ years
-- ✅ **Community approved** - Trusted by POE streamers
-
-## 🎯 Bot Features
-
-### 💱 Currency Trading
-- **Auto chaos to divine** - Always get best rates
-- **Cross-vendor comparison** - Find cheapest prices
-- **Bulk trading** - Handle big transactions
-- **Smart timing** - Trade when prices are good
-
-### 🎪 Item Flipping  
-- **Unique item sniping** - Find underpriced uniques
-- **Rare item analysis** - Spot valuable rares
-- **Map trading** - Buy/sell maps for profit
-- **Gem quality flips** - Quality gem opportunities
-
-### 🤖 Automation
-- **AFK trading** - Works while you're offline
-- **Auto responses** - Handles buyer messages
-- **Queue system** - Manages multiple trades
-- **Smart inventory** - Organizes your stash
-
-## 🎥 Video Guides
-
-<div align="center">
-
-### 🎬 **[SETUP GUIDE - WATCH NOW](https://youtube.com/watch?v=setup-guide)** | 💡 **[TRADING TIPS - WATCH NOW](https://youtube.com/watch?v=trading-tips)** | 🔧 **[TROUBLESHOOTING - WATCH NOW](https://youtube.com/watch?v=troubleshooting)**
-
-</div>
-
-## 💬 Join The Community
-
-<div align="center">
-
-[![Discord Server](https://img.shields.io/badge/🎮%20DISCORD%20SERVER-25K%20MEMBERS-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/poe-bot)
-
-**Get help • Share strategies • Make friends**
-
-</div>
-
-### What's in Discord?
-- 📢 **Bot updates** - First to know about new features
-- 💬 **Trading channels** - Share your best finds
-- 🎯 **Strategy discussions** - Learn from pro traders  
-- 🆘 **Support** - Get help when you need it
-- 🎉 **Giveaways** - Win free currency and items
-
-## 🏆 Player Reviews
-
-<div align="center">
-
-> *"Dude this bot is insane! Made 150 divine in my first week. Now I can afford all the gear I want!"*  
-> **- ChaosSlayer_2025**
-
-> *"Finally I can actually play the game instead of spamming trade chat. 10/10 would recommend."*  
-> **- MapRunnerPro**
-
-> *"Been using for 6 months, never had any issues. Safe and makes bank!"*  
-> **- ExileTrader99**
-
-</div>
-
-## 📱 Download Options
-
-<div align="center">
-
-### 🪟 **[WINDOWS - DOWNLOAD](https://poe-trading-bot.com/download/windows)** | 🐧 **[LINUX - DOWNLOAD](https://poe-trading-bot.com/download/linux)** | 🍎 **[MAC - DOWNLOAD](https://poe-trading-bot.com/download/mac)**
-
-</div>
-
-### System Requirements
-```
-💻 OS: Windows 10+, Linux, macOS
-🖥️ RAM: 4GB (8GB recommended)  
-🌐 Internet: Stable connection
-🐍 Python: 3.8+ (auto-installed)
-```
-
-## ⚙️ Simple Configuration
-
-```json
-{
-  "league": "Sanctum",
-  "min_profit_chaos": 3,
-  "auto_reply": true,
-  "discord_notifications": true,
-  "trading_strategies": [
-    "currency_exchange",
-    "item_flipping", 
-    "bulk_trading"
-  ]
-}
-```
-
-## 🔥 Latest Updates
-
-<div align="center">
-
-### 📋 **VERSION v3.2.0 SANCTUM READY**
-
-</div>
-
-### v3.2.0 - Sanctum Ready! 
-- ✨ **Full Sanctum support** - All new league mechanics
-- 🚀 **50% faster trading** - Improved response times
-- 🧠 **Smarter AI** - Better price predictions
-- 🔐 **Enhanced security** - Even safer operation
-- 📱 **Mobile alerts** - Get notifications on your phone
-
-## 🎁 Free Bonuses
-
-When you download, you also get:
-
-- 📊 **Trading spreadsheet** - Track your profits
-- 🎯 **Strategy guide** - Pro tips for max profit
-- 💬 **Discord VIP role** - Access to exclusive channels
-- 🎥 **Private tutorials** - Advanced techniques
-- 🔄 **Lifetime updates** - Always get new features
-
-## ❓ Quick FAQ
-
-**Q: Is this safe to use?**  
-A: 100% safe! Uses only official APIs, 75K+ users with zero bans.
-
-**Q: How much can I make?**  
-A: Most players make 15-50 divine orbs per day depending on league and settings.
-
-**Q: Do I need to be online?**  
-A: Nope! Bot trades for you 24/7, even when you're sleeping.
-
-**Q: Works on all leagues?**  
-A: Yes! Sanctum, Standard, Hardcore all fully supported.
-
-**Q: Is it really free?**  
-A: Completely free forever. No hidden costs or premium features.
-
-## 🚀 Start Making Bank Today!
-
-<div align="center">
-
-# 🚀 **[⬇️ DOWNLOAD NOW & START TRADING](https://poe-trading-bot.com/download)**
-
-**Join 75,000+ players already making bank with automated trading!**
-
-### ⭐ **Star this repo** | 🔄 **Fork and share** 
-
-</div>
+Thank you for checking out the Poe Trading Bot Automation project. We hope it enhances your Path of Exile trading experience. For updates and new features, keep an eye on the [Releases](https://github.com/JuniorAlves05/poe-trading-bot-automation/releases) section.
 
 ---
 
-<div align="center">
+### Additional Resources 📚
 
-**🎮 Made by gamers, for gamers | Path of Exile Trading Bot 2025**
+- [Path of Exile Official Site](https://www.pathofexile.com)
+- [POE Trading Community](https://www.pathofexile.com/trade)
 
-*Happy trading, exile!* 💎
-
-</div>
+Stay updated with the latest developments in the bot and the Path of Exile trading scene!
